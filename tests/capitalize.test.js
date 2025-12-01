@@ -16,11 +16,11 @@ describe("Capitalization of a string", () => {
 
 describe("Faulty values", () => {
   test("A non-string value", () => {
-    expect(capitalize(123)).toThrow(TypeError);
+    expect(() => capitalize(123)).toThrow(TypeError);
   });
 
   test("A null value", () => {
-    expect(capitalize(null)).toThrow(TypeError);
+    expect(() => capitalize(null)).toThrow(TypeError);
   });
 
   test("An empty string", () => {
