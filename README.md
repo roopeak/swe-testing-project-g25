@@ -14,4 +14,4 @@ Individuals who remove or modify the license file will also carry the consequenc
 
 ## Coverage Status on the Coverall site
 
-[![Coverage Status](https://coveralls.io/repos/github/roopeak/swe-testing-project-g25/badge.svg?branch=main)](https://coveralls.io/github/roopeak/swe-testing-project-g25?branch=main)
+[![Coverage Status](https://coveralls.io/repos/github/roopeak/swe-testing-project-g48/badge.svg?branch=main)](https://coveralls.io/github/roopeak/swe-testing-project-g48?branch=main)
