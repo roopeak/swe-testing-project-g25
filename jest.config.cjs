@@ -4,4 +4,9 @@ module.exports = {
   testPathIgnorePatterns: ['/src/.internal/'],
   // Exclude `.internal` files from coverage reports
   coveragePathIgnorePatterns: ['/src/.internal/'],
+  collectCoverage: true,
+  collectCoverageFrom: [
+    "src/**/*.js",
+    "!src/**/*.test.js"
+  ]
 };
